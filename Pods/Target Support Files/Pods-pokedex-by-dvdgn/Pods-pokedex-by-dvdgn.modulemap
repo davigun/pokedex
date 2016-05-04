@@ -1,0 +1,6 @@
+framework module Pods_pokedex_by_dvdgn {
+  umbrella header "Pods-pokedex-by-dvdgn-umbrella.h"
+
+  export *
+  module * { export * }
+}
